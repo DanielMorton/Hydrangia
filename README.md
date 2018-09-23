@@ -5,7 +5,7 @@ Notebooks train Xception and DeepNet201 convolutional architectures.
 
 DeepNet is trained on the top layer first, and then all layers. Xception is trained on all layers.
 
-Train/Validation spilt is 80/20.
+Train/Validation split is 80/20.
 
 Validation is measured using AUC.
 

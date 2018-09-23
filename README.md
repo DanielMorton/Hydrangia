@@ -9,7 +9,7 @@ Train/Validation spilt is 80/20.
 
 Validation is measured using AUC.
 
-Results are very similar.
+Results are very similar:
 
 Xception - 0.98578 AUC score
 
